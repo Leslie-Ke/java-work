@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76b878f3-146c-4db0-aeb7-4b1a77f673ce" name="Default Changelist" comment="" />
+    <list default="true" id="76b878f3-146c-4db0-aeb7-4b1a77f673ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/java-work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-exercise-java/demo-exercise-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-exercise-java/src/demo/java/randomNumber/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-exercise-java/src/demo/java/ticket/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/demo-buy-plane-ticket/demo/java/randomNumber/RandomNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/demo-buy-plane-ticket/demo/java/ticket/Ticket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +28,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2jY9I21kKXrFQdYBkuEHJab0oR0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
@@ -30,7 +49,20 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.RandomNumber">
+    <configuration name="RandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.java.randomNumber.RandomNumber" />
+      <module name="demo-exercise-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.java.randomNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Randow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="small.games.random.Randow" />
       <module name="Randomgame-java" />
@@ -44,8 +76,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ticket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.java.ticket.Ticket" />
+      <module name="demo-exercise-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.java.ticket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomNumber" />
+        <item itemvalue="Application.Ticket" />
         <item itemvalue="Application.Randow" />
       </list>
     </recent_temporary>
@@ -64,6 +111,8 @@
       <workItem from="1721726497571" duration="71000" />
       <workItem from="1721726574531" duration="8000" />
       <workItem from="1721726670503" duration="64000" />
+      <workItem from="1721798576987" duration="4779000" />
+      <workItem from="1721825454279" duration="81000" />
     </task>
     <servers />
   </component>
@@ -75,29 +124,33 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="361" y="67" key="#Project_Structure/0.0.1536.816@0.0.1536.816" timestamp="1721553062967" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1721553616666">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1721825128293">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1721553616666" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1721553616666">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1721825128293" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1721825128293">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1721553616666" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1721553616666">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1721825128293" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1721825128293">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1721553616666" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1721553616666">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1721825128293" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1721825128293">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1721553616666" />
-    <state x="449" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1721726671006">
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1721825128293" />
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1721825455879">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="449" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1721726671006" />
-    <state x="178" y="18" key="new project wizard" timestamp="1721553092255">
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1721825455879" />
+    <state x="178" y="18" key="new project wizard" timestamp="1721798654766">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="178" y="18" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1721553092255" />
+    <state x="178" y="18" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1721798654766" />
+    <state x="425" y="185" key="run.anything.popup" timestamp="1721807992111">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1721807992111" />
   </component>
 </project>
