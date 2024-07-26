@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76b878f3-146c-4db0-aeb7-4b1a77f673ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/java-work.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-exercise-java/demo-exercise-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-exercise-java/src/demo/java/randomNumber/RandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-exercise-java/src/demo/java/ticket/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/demo-buy-plane-ticket/demo/java/randomNumber/RandomNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/demo-buy-plane-ticket/demo/java/ticket/Ticket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-exercise-java/src/demo/java/copyarr/CopyArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-exercise-java/src/demo/java/encrypt/Encrypt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-exercise-java/src/demo/java/score/GetScore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +40,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.RandomNumber">
-    <configuration name="RandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.java.randomNumber.RandomNumber" />
+  <component name="RunManager" selected="Application.CopyArr">
+    <configuration name="CopyArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.java.copyarr.CopyArr" />
       <module name="demo-exercise-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.java.randomNumber.*" />
+          <option name="PATTERN" value="demo.java.copyarr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +54,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Randow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="small.games.random.Randow" />
-      <module name="Randomgame-java" />
+    <configuration name="Encrypt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.java.encrypt.Encrypt" />
+      <module name="demo-exercise-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="small.games.random.*" />
+          <option name="PATTERN" value="demo.java.encrypt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.java.score.GetScore" />
+      <module name="demo-exercise-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.java.score.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.java.randomNumber.RandomNumber" />
+      <module name="demo-exercise-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.java.randomNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,9 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CopyArr" />
+        <item itemvalue="Application.Encrypt" />
+        <item itemvalue="Application.GetScore" />
         <item itemvalue="Application.RandomNumber" />
         <item itemvalue="Application.Ticket" />
-        <item itemvalue="Application.Randow" />
       </list>
     </recent_temporary>
   </component>
@@ -113,6 +132,8 @@
       <workItem from="1721726670503" duration="64000" />
       <workItem from="1721798576987" duration="4779000" />
       <workItem from="1721825454279" duration="81000" />
+      <workItem from="1721894979799" duration="2937000" />
+      <workItem from="1721963853657" duration="7578000" />
     </task>
     <servers />
   </component>
@@ -124,26 +145,30 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="361" y="67" key="#Project_Structure/0.0.1536.816@0.0.1536.816" timestamp="1721553062967" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1721825128293">
+    <state x="318" y="2" key="CommitChangelistDialog2" timestamp="1721896413063">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1721825128293" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1721825128293">
+    <state x="318" y="2" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1721896413063" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1721986214304">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1721825128293" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1721825128293">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1721986214304" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1721986214304">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1721825128293" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1721825128293">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1721986214304" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1721986214304">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1721825128293" />
-    <state x="449" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1721825455879">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1721986214304" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1721986214304">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="449" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1721825455879" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1721986214304" />
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1721964374155">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1721964374155" />
     <state x="178" y="18" key="new project wizard" timestamp="1721798654766">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -152,5 +177,9 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1721807992111" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1721980301768">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1721980301768" />
   </component>
 </project>
