@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76b878f3-146c-4db0-aeb7-4b1a77f673ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo-exercise-java/src/demo/java/roll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-exercise-java/src/demo/java/Movie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-exercise-java/src/demo/java/Movie/movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-exercise-java/src/demo/java/Movie/movieoperate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,13 +42,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.roll">
-    <configuration name="CopyArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.java.copyarr.CopyArr" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.java.Movie.Main" />
       <module name="demo-exercise-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.java.copyarr.*" />
+          <option name="PATTERN" value="demo.java.Movie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.roll" />
         <item itemvalue="Application.Trianglel" />
         <item itemvalue="Application.Table_cf" />
         <item itemvalue="Application.RedBag" />
-        <item itemvalue="Application.CopyArr" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +139,10 @@
       <workItem from="1722328164002" duration="1399000" />
       <workItem from="1722393563632" duration="1901000" />
       <workItem from="1722409887168" duration="3832000" />
+      <workItem from="1722587217793" duration="5000" />
+      <workItem from="1723193314077" duration="2212000" />
+      <workItem from="1723257916123" duration="65000" />
+      <workItem from="1723257990159" duration="1628000" />
     </task>
     <servers />
   </component>
@@ -146,30 +154,34 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="361" y="67" key="#Project_Structure/0.0.1536.816@0.0.1536.816" timestamp="1721553062967" />
+    <state x="190" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1723193543645">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="190" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1723193543645" />
     <state x="318" y="2" key="CommitChangelistDialog2" timestamp="1721896413063">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="318" y="2" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1721896413063" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1722414279025">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1723259672517">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1722414279025" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1722414279025">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1723259672517" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1723259672517">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1722414279025" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1722414279025">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1723259672517" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1723259672517">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1722414279025" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1722414279025">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1723259672517" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1723259672517">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1722414279025" />
-    <state x="449" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1722409945310">
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1723259672517" />
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1723257992040">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="449" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1722409945310" />
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1723257992040" />
     <state x="178" y="18" key="new project wizard" timestamp="1721798654766">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
